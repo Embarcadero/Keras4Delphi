@@ -1,4 +1,10 @@
-This library is depricated in favor of the new [Python4Delphi Data Sciences Libraries](https://github.com/Embarcadero/P4D-Data-Sciences). That is where we are focusing all future development.
+## Depricated and Archived
+
+This library is **depricated** in favor of the _**new** [Python4Delphi Data Sciences](https://github.com/Embarcadero/P4D-Data-Sciences) libraries._ That is where we are focusing all future development.
+
+---
+---
+---
 
 **Keras4Delphi** is a high-level neural networks API, written in Delphi 11's Object Pacal with Python Binding and capable of running on top of TensorFlow, CNTK, or Theano. Based on [Keras.NET](https://github.com/SciSharp/Keras.NET) and [Keras](https://github.com/keras-team/keras) 
 
